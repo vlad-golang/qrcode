@@ -1,0 +1,7 @@
+.idea
+.vscode
+.env
+req
+TODO
+.DS_Store
+tmp
